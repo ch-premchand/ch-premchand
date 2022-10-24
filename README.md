@@ -1,4 +1,8 @@
 ### Hi there 👋
+![Prem's github stats](https://github-readme-stats.vercel.app/api?username=ch-premchand&show_icons=true&theme=dark)&nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ch-premchand&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **ch-premchand/ch-premchand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
